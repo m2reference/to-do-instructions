@@ -19,14 +19,14 @@ Reasons:
 PuTTY is opened. Go to the Connection tab.
 - Seconds between keepalives (0 to turn off)    : 15
 - Enable TCP keepalives (SO_KEEPALIVE option)   : Mark
-- ![Putty Keepalive](img/Screenshot_374.png)
+![Putty Keepalive](img/Screenshot_374.png)
 
 Turn off the screen and go to the 'Session' section.
 - Host Name (or IP address) : add ipv4
 - Port : add ssh port
 - Saved Session : add enter a custom name (example: load_bsd)
 - Click 'Save'
-- ![Putty Auto Login](img/Screenshot_375.png)
+![Putty Auto Login](img/Screenshot_375.png)
 - Click 'Cancel'
 
 Create a shortcut for Putty.exe
@@ -34,4 +34,4 @@ Create a shortcut for Putty.exe
 - Target : "C:\Program Files\PuTTY\putty.exe" -load local_bsd -l ssh_id -pw ssh_password
 - ssh_id : SSH User Name (example: root) change.
 - ssh_password : SSH password (example: 1) change.
-- New Target : "C:\Program Files\PuTTY\putty.exe" -load local_bsd -l root -pw 1
+- Example Target : "C:\Program Files\PuTTY\putty.exe" -load local_bsd -l root -pw 1
