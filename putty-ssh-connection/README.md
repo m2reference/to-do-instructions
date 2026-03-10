@@ -19,6 +19,7 @@ Reasons:
 PuTTY is opened. Go to the Connection tab.
 - Seconds between keepalives (0 to turn off)    : 15
 - Enable TCP keepalives (SO_KEEPALIVE option)   : Mark
+
 ![Putty Keepalive](img/Screenshot_374.png)
 
 Turn off the screen and go to the 'Session' section.
@@ -26,6 +27,7 @@ Turn off the screen and go to the 'Session' section.
 - Port : add ssh port
 - Saved Session : add enter a custom name (example: load_bsd)
 - Click 'Save'
+
 ![Putty Auto Login](img/Screenshot_375.png)
 - Click 'Cancel'
 
