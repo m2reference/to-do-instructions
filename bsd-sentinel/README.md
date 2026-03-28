@@ -74,10 +74,13 @@ The system automatically detects and installs the latest available version.
 - MariaDB Root Password Configuration. You can choose to set the MariaDB root password either manually or generate it randomly during this step.
 ![Putty Keepalive](img/step_6_root_password.png)
 
-- Remote Access User (Optional). Do you want to create a remote access user? if you want to enable remote access (e.g., for tools like Navicat). All connection details will be automatically saved in the following file: `/_freebsd_deploy_temp_` `Click : ENTER or ESC`
-![Putty Keepalive](img/step_6_remote_acces.png) ![Putty Keepalive](img/step_6_remote_acces_2.png) `Click : R`
+- Remote Access User (Optional). Do you want to create a remote access user? if you want to enable remote access (e.g., for tools like Navicat). All connection details will be automatically saved in the following file: `/_freebsd_deploy_temp_` 
+`Click : ENTER or ESC`
+![Putty Keepalive](img/step_6_remote_acces.png) ![Putty Keepalive](img/step_6_remote_acces_2.png) 
+`Click : R`
 
-- MariaDB Port Configuration (Optional). You may change the MariaDB port during this step if desired. ![Putty Keepalive](img/step_6_port.png) ![Putty Keepalive](img/step_6_port_2.png) `Click : R`
+- MariaDB Port Configuration (Optional). You may change the MariaDB port during this step if desired. ![Putty Keepalive](img/step_6_port.png) ![Putty Keepalive](img/step_6_port_2.png) 
+`Click : R`
 
 ## Step 7 : Base File Extraction
 This step runs automatically with no user prompt.
