@@ -80,11 +80,13 @@ The system automatically detects and installs the latest available version.
 
 ![Putty Keepalive](img/step_6_remote_acces.png) 
 ![Putty Keepalive](img/step_6_remote_acces_2.png) 
+
 `Click : R`
 
 - MariaDB Port Configuration (Optional). You may change the MariaDB port during this step if desired. 
 ![Putty Keepalive](img/step_6_port.png) 
 ![Putty Keepalive](img/step_6_port_2.png) 
+
 `Click : R`
 
 ## Step 7 : Base File Extraction
